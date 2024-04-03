@@ -3,6 +3,7 @@ public static void main(String[] args){
 
 System.out.println("first line added");
 System.out.println("this line is added by Developer 2");
+System.out.println("second line added by developer 1");
 
 }
 
